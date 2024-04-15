@@ -8,6 +8,7 @@ namespace StudyCodeDiary
 {
     /// <summary>
     ///  This class is use to try an error handling.
+    ///  Also when using try catch is it best done when dealing external file, database and network.
     /// </summary>
     using System;
     public class ErrorHandlingDiary
